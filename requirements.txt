@@ -1,0 +1,8 @@
+numpy
+matplotlib==3.7.1
+Pillow==9.5.0
+Cython==0.29.34
+ripser==0.6.4
+persim
+
+
